@@ -111,7 +111,7 @@
 
         NAV {
             bindings = <
-&none   &none   &none   &none   &none   &none     &none            &none   &none   &none   &none   &none   &none   &none             &none
+&none   &none   &none   &none   &none   &none     &none            &none   &none   &none   &none  &none 
 &none   &none   &none   &none   &none   &none     &detach_session  &create_or_attach  &next_pane   &show_sessions  &sync_panes       &none
 &trans  &trans  &trans  &trans  &trans  &none     &h_split         &kp LEFT_ARROW     &kp DOWN     &kp UP          &kp RIGHT_ARROW   &none
 &none   &none   &none   &none   &none   &none     &v_split         &kp HOME           &kp PG_DN    &kp PG_UP       &kp END           &none
