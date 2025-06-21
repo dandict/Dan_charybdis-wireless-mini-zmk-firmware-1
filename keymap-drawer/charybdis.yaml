@@ -1,6 +1,18 @@
 layout: {zmk_keyboard: charybdis}
 layers:
   BASE:
+  - ESC
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - ''
   - DEV TOOLS
   - Q
   - W
@@ -43,6 +55,18 @@ layers:
   - {t: RETURN, h: MOUSE}
   - '&td_space'
   NUM:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - {t: ▽, type: trans}
   - ''
   - ''
@@ -85,6 +109,18 @@ layers:
   - .
   - '0'
   NAV:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - ''
   - ''
   - ''
@@ -169,6 +205,18 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   GAME:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - '1'
   - TAB
   - Q
@@ -211,6 +259,18 @@ layers:
   - ''
   - ''
   PHOTOS:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - {t: ▽, type: trans}
   - TAG Z
   - TAG E
@@ -253,6 +313,18 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   EXTRAS:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - POWER
   - SHRUG
   - LGTM
@@ -296,6 +368,18 @@ layers:
   - ''
   MOUSE:
   - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - WHEEL L
   - WHEEL D
   - MOVE UP
@@ -337,6 +421,18 @@ layers:
   - {t: RETURN, type: held}
   - {t: ▽, type: trans}
   SLOW:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -379,6 +475,18 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   SCROLL:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -421,6 +529,18 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
 combos:
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
+- ''
 - p: [17, 18]
   k: CAPS WORD
   l: [BASE]
