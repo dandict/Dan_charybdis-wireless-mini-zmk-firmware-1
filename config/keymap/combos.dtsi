@@ -10,27 +10,27 @@
 
         combo_BASE_or_EXTRAS {
             bindings = <&td_bore>;
-            key-positions = <38 39>;
+            key-positions = <49 50>;
         };
         
         combo_left_click {
             bindings = <&mkp LCLK>;
-            key-positions = <25 26>;
+            key-positions = <37 38>;
         };
         
         combo_middle_click {
             bindings = <&mkp MCLK>;
-            key-positions = <26 27>;
+            key-positions = <38 39>;
         };
 
         combo_right_click {
             bindings = <&mkp RCLK>;
-            key-positions = <27 28>;
+            key-positions = <39 40>;
         };
 
         combo_mouse_layer {
             bindings = <&to 6>;
-            key-positions = <13 22>;
+            key-positions = <25 34>;
         };
     };
 };
