@@ -1,10 +1,10 @@
 #include <physical_layouts.dtsi>
 
 / {
-    physical_layout0: physical_layout_0 {
+    charybdis_physical_layout: charybdis_physical_layout {
         compatible = "zmk,physical-layout";
         display-name = "Charybdis 5x6";
-
+        status = "okay";
         kscan = <&kscan0>;
         transform = <&matrix_transform2>;
 
