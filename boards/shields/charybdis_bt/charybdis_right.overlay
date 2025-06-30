@@ -7,6 +7,9 @@
 	col-offset = <6>;
 };
 
+&five_row_transform {
+	col-offset = <6>;
+};
 &five_column_transform {
 	col-offset = <5>;
 };
